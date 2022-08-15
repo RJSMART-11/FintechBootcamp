@@ -16,4 +16,4 @@ Demonstrate GITHUBS UI
 
 [Images](https://github.com/RJSMART-11/FintechBootcamp/tree/main/images)
 
-!(https://github.com/RJSMART-11/FintechBootcamp/blob/16b10ad46cee766c5ff61891d97f481eb5d70e37/images/(Wiz-D)-Warlock-(Samples)-A2.jpg)
+![image 1](https://github.com/RJSMART-11/FintechBootcamp/blob/16b10ad46cee766c5ff61891d97f481eb5d70e37/images/(Wiz-D)-Warlock-(Samples)-A2.jpg)
